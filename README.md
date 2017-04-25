@@ -3,14 +3,14 @@
 
 1.Question 1:
 
-0000000000601038 B __bss_start
-0000000000601038 b completed.6973
-0000000000601028 D __data_start
-0000000000601028 W data_start
-0000000000400430 t deregister_tm_clones
-00000000004004a0 t __do_global_dtors_aux
-0000000000600e18 t __do_global_dtors_aux_fini_array_entry
-0000000000601030 D __dso_handle
+  0000000000601038 B __bss_start
+  0000000000601038 b completed.6973
+  0000000000601028 D __data_start
+  0000000000601028 W data_start
+  0000000000400430 t deregister_tm_clones
+  00000000004004a0 t __do_global_dtors_aux
+  0000000000600e18 t __do_global_dtors_aux_fini_array_entry
+  0000000000601030 D __dso_handle
 0000000000600e28 d _DYNAMIC
 0000000000601038 D _edata
 0000000000601040 B _end
