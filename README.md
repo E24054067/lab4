@@ -3,7 +3,7 @@
 
 1.Question 1:
 
-＜/br＞  0000000000601038 B __bss_start
+    0000000000601038 B __bss_start
 ＜/br＞  0000000000601038 b completed.6973
 ＜/br＞  0000000000601028 D __data_start
 ＜/br＞  0000000000601028 W data_start
